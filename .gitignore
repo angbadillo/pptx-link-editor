@@ -1,0 +1,23 @@
+# Swift / SwiftPM build
+.build/
+DerivedData/
+*.xcodeproj/
+
+# Python venv (solo para generar fixtures de prueba)
+.venv/
+
+# Artefactos generados por build_app.sh
+*.app/
+*.zip
+*(distribution)/
+*(distribución)/
+
+# Ficheros de prueba generados
+fixture_*.pptx
+multi_*.pptx
+
+# macOS
+.DS_Store
+
+# Configuración local de Claude Code
+.claude/
