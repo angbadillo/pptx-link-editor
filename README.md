@@ -1,9 +1,18 @@
 # PPTX Link Editor
 
-Native macOS (SwiftUI) app to **fix or embed the external data sources** of charts in
-`.pptx` files **without corrupting the file**.
+> 🇬🇧 **Embed a chart's data directly into a PowerPoint file on macOS** — making the
+> presentation self-contained instead of depending on an external Excel. This is a feature
+> available in **Office for Windows but missing on the Mac**, where PowerPoint can only keep
+> charts *linked* to an external workbook. The app also lets you repair or redirect those
+> external links without corrupting the `.pptx`.
+>
+> 🇪🇸 **Incrustar los datos de un gráfico directamente en un archivo de PowerPoint en macOS**
+> — dejando la presentación autocontenida en lugar de depender de un Excel externo. Es una
+> función disponible en **Office para Windows pero ausente en Mac**, donde PowerPoint solo
+> puede mantener los gráficos *vinculados* a un libro externo. La app también permite reparar
+> o redirigir esos enlaces externos sin estropear el `.pptx`.
 
-**🌐 Language:** [English](#english) · [Español](#español)
+**🌐 Language / Idioma:** [English](#english) · [Español](#español)
 
 ---
 
